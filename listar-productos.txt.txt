@@ -1,0 +1,2 @@
+Funcionalidad: Listar productos.
+Esta rama contiene el listado general de productos del sistema.
