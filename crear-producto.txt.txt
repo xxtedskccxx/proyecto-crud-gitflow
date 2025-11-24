@@ -1,0 +1,2 @@
+Esta funcionalidad permite crear un producto.
+
