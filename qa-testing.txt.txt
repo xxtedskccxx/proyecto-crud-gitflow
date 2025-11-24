@@ -1,0 +1,2 @@
+Pruebas realizadas por el equipo QA.
+Esta rama valida la calidad del sistema y sus funcionalidades.
