@@ -1,0 +1,3 @@
+Funcionalidad: Eliminar producto.
+Aquí se implementa la eliminación de productos del sistema.
+
